@@ -60,7 +60,7 @@ Describe any challenges encountered while building the app.
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
-- [OKHttpClient] - another 3rd party libary for synchronous or asynchronous HTTP requests
+- [OKHttpClient] (http://square.github.io/okhttp/) - another 3rd party libary for synchronous or asynchronous HTTP requests
 
 ## License
 
