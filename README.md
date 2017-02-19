@@ -41,7 +41,8 @@ Here's a walkthrough of implemented user stories:
 
 [Imgur](http://i.imgur.com/9vWiViX.gifv)
 
-<img src="http://i.imgur.com/9vWiViX.gifv"/>
+![Alt text](/videoWalkThrough.gif?raw=true "Vide Walktrhough")
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
