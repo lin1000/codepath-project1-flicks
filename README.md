@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 * [X] User can **scroll through current movies** from the Movie Database API
 * [X] Layout is optimized with the [ViewHolder](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView#improving-performance-with-the-viewholder-pattern) pattern.
-* [ X] For each movie displayed, user can see the following details:
+* [X] For each movie displayed, user can see the following details:
   * [X] Title, Poster Image, Overview (Portrait mode)
   * [X] Title, Backdrop Image, Overview (Landscape mode)
 
@@ -44,7 +44,6 @@ Here's a walkthrough of implemented user stories:
 ![Alt text](/videoWalkThrough.gif?raw=true "Vide Walktrhough")
 
 
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -55,6 +54,7 @@ Describe any challenges encountered while building the app.
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
+- [OKHttpClient] - another 3rd party libary for synchronous or asynchronous HTTP requests
 
 ## License
 
