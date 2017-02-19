@@ -48,6 +48,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+Challenge 1 : I want to prevent "Playbutton" showing before movie poster image rendered. So I try to use Async task to control timing of rendering play button.
+Challenge 2 : Nested Layout is quite helpful when I want to control the position of overlay icon.
+Challenge 3 : Understand why network request can't run on UI Thread. How android detect the current thread is UI thread or not ?
+Challenge 4 : OKHttpClient should be singleton according to suggestion. What will happend when I generating multiple client request from this singleton ? Is it thread safe internally?
+
+
 Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
